@@ -1,7 +1,11 @@
 [package]
-name = "widgetui"
+name = "widget-forge"
 version = "0.0.0"
 edition = "2024"
+description = "A Widget Based Application Engine for Ascii-Forge"
+readme = "README.md"
+repository = "https://github.com/TheEmeraldBee/widget-forge"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 ascii-forge = "1.0.0"
