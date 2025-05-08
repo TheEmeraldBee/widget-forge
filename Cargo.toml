@@ -1,6 +1,6 @@
 [package]
 name = "widget-forge"
-version = "0.0.0"
+version="0.0.0"
 edition = "2024"
 description = "A Widget Based Application Engine for Ascii-Forge"
 readme = "README.md"
