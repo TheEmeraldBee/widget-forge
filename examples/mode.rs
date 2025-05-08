@@ -8,7 +8,7 @@ use std::io;
 
 use ascii_forge::prelude::*;
 use ascii_forge::widgets::border::Border;
-use widgetui::prelude::*;
+use widget_forge::prelude::*;
 
 #[derive(Clone, Copy, PartialEq, Eq)]
 pub enum AppState {

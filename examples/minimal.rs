@@ -5,7 +5,7 @@ handles a press of the 'q' key to quit the application
 */
 use ascii_forge::prelude::*;
 use std::io;
-use widgetui::prelude::*;
+use widget_forge::prelude::*;
 
 #[derive(Default)]
 pub struct AppData {
